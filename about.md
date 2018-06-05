@@ -2,14 +2,13 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+You have reached the home page of John Richardson.
 
-### More Information
+I am a financial industry technologist, with a specialisation in data. I am committed to helping businesses get the most out of financial data.
 
-A place to include any other types of information that you'd like to include about yourself.
+You can see more of my experience on my LinkedIn bio
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[https://www.linkedin.com/in/john-richardson/](https://www.linkedin.com/in/john-richardson/)
