@@ -1,6 +1,9 @@
 ---
-published: false
+layout: post
+title: Thoughts on Reference Data
+published: true
 ---
+
 Sets of records:
 
 I have mentioned the word dataset a few times. Lets define that more specifically.
