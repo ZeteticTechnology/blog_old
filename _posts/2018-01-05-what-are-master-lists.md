@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thoughts on Reference Data
+title: What are Master Lists?
 published: true
 ---
 
