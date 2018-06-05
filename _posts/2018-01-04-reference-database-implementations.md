@@ -1,6 +1,9 @@
 ---
-published: false
+layout: post
+title: Thoughts on Reference Data
+published: true
 ---
+
 ## How should a Master Reference Database be implemented?
 
 Lets look at some implementation aspects when creating a master reference database.
