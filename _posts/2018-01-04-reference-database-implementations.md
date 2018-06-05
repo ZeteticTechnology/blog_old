@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Thoughts on Reference Data
+title: How should a Master Reference Database be implemented?
 published: true
 ---
-
-## How should a Master Reference Database be implemented?
 
 Lets look at some implementation aspects when creating a master reference database.
 
@@ -78,4 +76,4 @@ Python does have a less than optimal threading model though. for some large scal
 My advice is don't try to architect and implement distributed computing frameworks yourself if there exists an open source framework that does it for you. These kinds of solution are hard to get right!
 
 
-If you implement many batch loaders of data, you'll probably find that many of them have similar requirements for data processing, but also infrastructure considerations like, how to connect to the database, how to bulk load etc. Its obviously useful to develop patterns for these infrastructure operations so that you don't re-invent the wheel. Of course you can have many stand-alone loaders running the same code components that you reuse in your code base, but consider also that it can be worth your time to use a framework for such things. 
+If you implement many batch loaders of data, you'll probably find that many of them have similar requirements for data processing, but also infrastructure considerations like, how to connect to the database, how to bulk load etc. Its obviously useful to develop patterns for these infrastructure operations so that you don't re-invent the wheel. Of course you can have many stand-alone loaders running the same code components that you reuse in your code base, but consider also that it can be worth your time to use a framework for such things.
