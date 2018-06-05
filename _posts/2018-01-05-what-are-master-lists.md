@@ -1,6 +1,9 @@
 ---
-published: false
+layout: post
+title: Thoughts on Reference Data
+published: true
 ---
+
 Something that a master reference database can contain is master lists. A master list is a set of records that enumerate a set of known and desired things. Lets continue using the example of stocks.
 
 
