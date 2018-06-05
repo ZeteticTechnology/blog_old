@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: zetetic-technology/blog
+  github: zetetic-technology
   instagram:
   linkedin:
   pinterest:
@@ -47,7 +47,7 @@ url: http://zetetic.technology
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "http://zetetic.technology"
+baseurl: http://zetetic.technology
 
 #
 # !! You don't need to change any of the configuration flags below !!
