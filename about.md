@@ -14,3 +14,5 @@ I am a financial industry technologist, with a specialisation in data. I am comm
 You can see more of my experience on my LinkedIn bio:
 
 [https://www.linkedin.com/in/john-richardson/](https://www.linkedin.com/in/john-richardson/)
+
+You can get in contact using the buttons below:
