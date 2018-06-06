@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Comment Policy
-permalink: /CommentPolicy/
+permalink: /commentpolicy/
 published: true
 ---
 
