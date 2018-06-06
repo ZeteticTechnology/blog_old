@@ -26,8 +26,9 @@ th {
 	color: white;
 }
 
-tr:hover {background-color: #4286f4;}
 tr:nth-child(even) {background-color: #f2f2f2;}
+
+tr:hover {background-color: #4286f4;}
 
 html {
   font-size: 100%;
