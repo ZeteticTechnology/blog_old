@@ -4,8 +4,6 @@ title: What is a DataSet?
 published: true
 ---
 
-Sets of records:
-
 I have mentioned the word dataset a few times. Lets define that more specifically.
 
 We'll give an example. Lets say we have some stock ticker to company names records
